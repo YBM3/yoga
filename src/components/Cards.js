@@ -54,7 +54,7 @@ const Cards = () => {
             <p className='mb-4 lg:mb-3'>
               We're boosting online yoga by enabling anyone in the world to learn from the best
             </p>
-            <a className='text-xs lg:text-sm font-bold uppercase text-heading' href="#">Read more</a>
+            <a className='text-xs lg:text-sm font-bold uppercase text-heading' href="/">Read more</a>
           </div>
           {/* {card image} */}
           <div>

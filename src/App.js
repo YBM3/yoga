@@ -13,7 +13,6 @@ import Courses from './components/Courses';
 import Pricing from './components/Pricing';
 import Newsletter from './components/Newsletter';
 import Contact from './components/Contact';
-import Footer from './components/Footer';
 
 const App = () => {
   //Aos init
@@ -30,7 +29,6 @@ const App = () => {
     <Pricing/>
     <Newsletter/>
     <Contact/>
-    {/* <Footer/> */}
   </div>;
 };
 
