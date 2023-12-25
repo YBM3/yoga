@@ -1,1 +1,1 @@
-# yoga-landing-starter
+# yoga-landing
